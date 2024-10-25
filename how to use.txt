@@ -1,0 +1,10 @@
+Step 1. Install the Requirements in "requirements.txt"
+
+Step 2. Add the niches in "niches.txt" and zip codes in "zip_codes.txt"
+
+Step 3. Run the script "google.py"
+
+Important Note:
+Make sure do not interfere with the chrome window opened by program.
+Make Sure your PC do not undergoes into sleep or the screen saver.
+(Not following the notes the scraping process may crashes.)
